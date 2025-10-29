@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Merhaba, ben Sinan Cinkara
 
-<!--
-**sinancnkra/sinancnkra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Siber güvenlik ve otomasyon alanına ilgi duyan bir geliştiriciyim.  
+Python, Bash ve HTML ile projeler geliştiriyor; sistem güvenliği, ağ analizi ve otomasyon üzerine çalışıyorum.
 
-Here are some ideas to get you started:
+## 🚀 Yetenekler
+- 💻 Diller: **Python**, **Bash**, **HTML**
+- 🔒 İlgi Alanları: Siber güvenlik, CTF’ler, otomasyon, ağ analizi
+- 🛠️ Araçlar: Linux, Wireshark, Burp Suite, Nmap
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projelerimden Bazıları
+- 🐍 **[AutoRecon Script](#)** – Python + Bash kullanarak otomatik ağ tarama aracı  
+- 🌐 **[Mini Web Panel](#)** – HTML tabanlı basit admin panel arayüzü  
+- 🔐 **[Password Analyzer](#)** – Zayıf şifre tespiti yapan Python aracı
+
+## 📫 Bana Ulaş
+📧 sinancinkara@example.com  
+🌐 [LinkedIn](#) | [TryHackMe](#) | [Hack The Box](#)
