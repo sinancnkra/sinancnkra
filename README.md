@@ -14,5 +14,5 @@ Python, Bash ve HTML ile projeler geliştiriyor; sistem güvenliği, ağ analizi
 - 🔐 **[Password Analyzer](#)** – Zayıf şifre tespiti yapan Python aracı
 
 ## 📫 Bana Ulaş
-📧 sinancinkara@example.com  
+📧 cinkarasinan0.com  
 🌐 [LinkedIn](#) | [TryHackMe](#) | [Hack The Box](#)
