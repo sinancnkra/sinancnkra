@@ -50,9 +50,9 @@
 <h3 align="left">📂 Projelerimden Bazıları</h3>
 
 <ul>
-  <li>🐍 **[AutoRecon Script](https://github.com/KULLANICI_ADINIZ/auto-recon-script)** - Python + Bash kullanarak otomatik ağ tarama aracı.</li>
+  <li>🐍 **[AutoRecon Script](https://github.com/sinancnkra/auto-recon-script)** - Python + Bash kullanarak otomatik ağ tarama aracı.</li>
   <li>💻 **[Mini Web Panel](https://github.com/KULLANICI_ADINIZ/mini-web-panel)** - HTML tabanlı basit admin panel arayüzü.</li>
-  <li>🔑 **[Password Analyzer](https://github.com/KULLANICI_ADINIZ/password-analyzer)** - Zayıf şifre tespiti yapan Python aracı.</li>
+  <li>🔑 **[Password Analyzer](https://github.com/sinancnkra/password-analyzer)** - Zayıf şifre tespiti yapan Python aracı.</li>
 </ul>
 
 ---
