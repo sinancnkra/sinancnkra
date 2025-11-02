@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 </p>
 
 <p align="left">
@@ -26,6 +27,7 @@
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
   <img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite">
   <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap">
+  <img src="https://img.shields.io/badge/Sqlmap-9A0000?style=for-the-badge&logo=databricks&logoColor=white" alt="sqlmap">
 </p>
 
 <p align="left">
@@ -44,16 +46,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sinancnkra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinancnkra&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
 </p>
-
----
-
-<h3 align="left">📂 Projelerimden Bazıları</h3>
-
-<ul>
-  <li>🐍 **[AutoRecon Script](https://github.com/sinancnkra/auto-recon-script)** - Python + Bash kullanarak otomatik ağ tarama aracı.</li>
-  <li>💻 **[Mini Web Panel](https://github.com/KULLANICI_ADINIZ/mini-web-panel)** - HTML tabanlı basit admin panel arayüzü.</li>
-  <li>🔑 **[Password Analyzer](https://github.com/sinancnkra/password-analyzer)** - Zayıf şifre tespiti yapan Python aracı.</li>
-</ul>
 
 ---
 
